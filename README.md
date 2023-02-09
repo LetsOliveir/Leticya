@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @A-leh
-- 👀 I’m interested in programming and development, love a good cup of coffee and watching documentaries.
-- 🌱 I’m currently learning computer science and its curiosities, especially HTML, CSS and other languages.
-- 💞️ I’m looking to collaborate on to be someone better and explore the world, not by infringing my ideas and beliefs but by trying new things.
-- 📫 You can find me Here, at discord or on my personal blog. And also in my e-mail.
 
-<!---
-A-leh/A-leh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Oiê, eu sou a Letícya Oliveira, estudante de programação e tecnologia!
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="let-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Let-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Let-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Let-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ 
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/sun_flowerthings/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/sun_flowerthings" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  
+</div>
